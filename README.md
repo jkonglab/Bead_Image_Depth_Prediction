@@ -35,3 +35,7 @@ analyze_hdf5 | Scripts used to analyze hdf5 format files when I was finding a so
 logs | Saved models and prediction results.
 source_images | Original multi-frame tif source images.
 train_data | Training, validation and testing datasets.
+
+## License
+This tool is available under the GNU General Public License (GPL) (https://www.gnu.org/licenses/gpl-3.0.en.html) and the LGPL (https://www.gnu.org/licenses/lgpl-3.0.en.html).
+
